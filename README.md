@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Akash Kisku
 
-<!--
-**akashkisku-108/akashkisku-108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech in Electronics & Communication Engineering — BIT Sindri  
+💻 Aspiring Software Developer | Open-Source Enthusiast  
+🚀 Seeking Internship / Full-Time Roles in Software Development
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 About Me
+
+- 🌱 Currently strengthening skills in DSA and Web Development.
+- 🛠️ Building real projects to apply knowledge
+- 📈 Exploring open-source contribution opportunities
+
+---
+
+## 🛠️ Tech Skills
+
+### 💻 Programming & Fundamentals
+C | C++ | Python | Data Structures & Algorithms
+
+### 👨‍💻 Web & Development
+HTML | CSS | JavaScript | Git | GitHub
+
+### 📡 Core / Engineering
+Signals & Systems | Digital Logic | RF Systems | Transmission Lines
+
+---
+
+## 📫 Connect With Me
+
+- 🔗 LinkedIn — https://www.linkedin.com/in/akash-kisku-65501b1b3/ 
+- 🐱 GitHub — https://github.com/akashkisku-108  
+- ✉️ Email — akashkisku8721@gmail.com
+
+---
+
+⭐ “Continuous learning opens every door.”  

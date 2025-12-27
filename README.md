@@ -3,10 +3,6 @@
 </h1>
 
 <p align="center">
-  <img src="[https://i.imgur.com/TV9Vv7W.gif" width="550](https://www.freepik.com/free-photos-vectors/krishna-flute)" />
-</p>
-
-<p align="center">
 B.Tech — Electronics and Communication Engineering, BIT Sindri  
 <br>
 Focused on building a strong problem-solving

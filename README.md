@@ -9,7 +9,7 @@
 <p align="center">
 B.Tech — Electronics and Communication Engineering, BIT Sindri  
 <br>
-Focused on building a strong problem-solving and engineering-oriented profile
+Focused on building a strong problem-solving
 </p>
 
 ---
@@ -30,16 +30,6 @@ Focused on building a strong problem-solving and engineering-oriented profile
 <br>
 <img src="https://skillicons.dev/icons?i=matlab,react,nodejs" />
 </p>
-
----
-
-## *>* Projects
-
-Chain Reaction Game — MATLAB App Designer  
-PSK and QPSK SDR Experiment — GNU Radio  
-DSA Practice Repository — C++ Implementations
-
-(Currently improving documentation and structure)
 
 ---
 

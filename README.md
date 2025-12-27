@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/TV9Vv7W.gif" width="550" />
+  <img src="[https://i.imgur.com/TV9Vv7W.gif" width="550](https://www.freepik.com/free-photos-vectors/krishna-flute)" />
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@ Focused on building a strong problem-solving and engineering-oriented profile
 ## *>* About
 
 *>* Learning and improving Data Structures and Algorithms  
-*>* Interested in backend systems, developer tools and open-source collaboration  
+*>* Interested in backend systems, developer tools, and open-source collaboration  
 *>* Building projects to strengthen implementation clarity and consistency  
 *>* Working towards long-term technical depth rather than shortcuts
 
@@ -68,9 +68,9 @@ DSA Practice Repository — C++ Implementations
 
 ## *>* Contact
 
-LinkedIn — YOUR_LINK  
+LinkedIn — https://www.linkedin.com/in/akash-kisku-65501b1b3/
 GitHub — https://github.com/akashkisku-108  
-Email — YOUR_EMAIL
+Email — Akashkisku8721@gmail.com
 
 ---
 

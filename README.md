@@ -38,14 +38,6 @@ Transmission Lines and EM Fundamentals
 
 ---
 
-## *>* Open Source and Learning
-
-Working towards meaningful contributions in open source  
-Exploring structured preparation for GSoC  
-Improving consistency, clarity of thought, and technical depth
-
----
-
 ## *>* Profile Overview
 
 <p align="center">
@@ -58,7 +50,7 @@ Improving consistency, clarity of thought, and technical depth
 
 ---
 
-## *>* Connect
+## *>* 🌱 Let's Connect
 
 LinkedIn — https://www.linkedin.com/in/akash-kisku-65501b1b3/
 GitHub — https://github.com/akashkisku-108  

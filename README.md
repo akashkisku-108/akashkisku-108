@@ -1,61 +1,78 @@
 <h1 align="center">
-  AKASH KISKU
+  <img src="https://readme-typing-svg.herokuapp.com?font=DM+Sans&weight=600&size=34&duration=3000&pause=600&color=4BD5FF&center=true&vCenter=true&width=520&lines=AKASH+KISKU;Engineering+Mindset+%7C+Learning+Every+Day" />
 </h1>
 
 <p align="center">
-B.Tech — Electronics and Communication Engineering, BIT Sindri
+  <img src="https://i.imgur.com/TV9Vv7W.gif" width="550" />
+</p>
+
+<p align="center">
+B.Tech — Electronics and Communication Engineering, BIT Sindri  
 <br>
-Aspiring Software Developer | Open Source Learner | Systems and Problem Solving
+Focused on building a strong problem-solving and engineering-oriented profile
 </p>
 
 ---
 
 ## *>* About
 
-*>* Focused on strengthening core concepts in Data Structures and Algorithms  
-*>* Interested in backend systems, developer tools, and open source collaboration  
-*>* Building projects to improve reasoning, implementation, and consistency  
-*>* Long-term goal: grow into a strong engineering and problem-solving profile
+*>* Learning and improving Data Structures and Algorithms  
+*>* Interested in backend systems, developer tools and open-source collaboration  
+*>* Building projects to strengthen implementation clarity and consistency  
+*>* Working towards long-term technical depth rather than shortcuts
 
 ---
 
-## *>* Technical Skills
+## *>* Tech Stack
 
-### Programming and CS Fundamentals
-C | C++ | Python   
-Data Structures and Algorithms  
-Object-Oriented Programming
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,git,github,linux,vscode&theme=light" />
+<br>
+<img src="https://skillicons.dev/icons?i=matlab,react,nodejs" />
+</p>
 
-### Development and Tools
-HTML | CSS | JavaScript  
-Git | GitHub | Linux (basics)  
-MATLAB | Simulink
+---
 
-### Engineering and Core Understanding
-Communication Systems  
-Digital and DSP Concepts  
-Transmission Lines and EM Fundamentals
+## *>* Projects
+
+Chain Reaction Game — MATLAB App Designer  
+PSK and QPSK SDR Experiment — GNU Radio  
+DSA Practice Repository — C++ Implementations
+
+(Currently improving documentation and structure)
+
+---
+
+## *>* Open Source and Learning
+
+*>* Exploring contribution opportunities in open-source ecosystems 
+*>* Focusing on fundamentals, reasoning, and controlled progress
 
 ---
 
 ## *>* Profile Overview
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=akashkisku-108&show_icons=true&theme=transparent" />
+<img src="https://github-readme-stats.vercel.app/api?username=akashkisku-108&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashkisku-108&layout=compact" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=akashkisku-108&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashkisku-108&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## *>* 🌱 Let's Connect
+## *>* Contact
 
-LinkedIn — https://www.linkedin.com/in/akash-kisku-65501b1b3/
+LinkedIn — YOUR_LINK  
 GitHub — https://github.com/akashkisku-108  
-Email — Akashkisku8721@gmail.com
+Email — YOUR_EMAIL
 
 ---
 
-Clarity. Discipline. Gradual improvement over time.
+A calm, disciplined, and improving journey.
+

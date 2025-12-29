@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=DM+Sans&weight=600&size=34&duration=3000&pause=600&color=4BD5FF&center=true&vCenter=true&width=520&lines=AKASH+KISKU;Engineering+Mindset+%7C+Learning+Every+Day" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=DM+Sans&weight=600&size=34&duration=3000&pause=600&color=4BD5FF&center=true&vCenter=true&width=520&lines=AKASH+KISKU;  Engineering+Mindset+%7C+Learning+Every+Day" />
 </h1>
 
 <p align="center">
@@ -12,10 +12,9 @@ Focused on building a strong problem-solving
 
 ## *>* About
 
-*>* Learning and improving Data Structures and Algorithms  
-*>* Interested in backend systems, developer tools, and open-source collaboration  
-*>* Building projects to strengthen implementation clarity and consistency  
-*>* Working towards long-term technical depth rather than shortcuts
+*>* Learning and improving Data Structures and Algorithms
+
+*>* Interested in open-source collaboration. 
 
 ---
 
@@ -29,13 +28,7 @@ Focused on building a strong problem-solving
 
 ---
 
-## *>* Open Source
-
-*>* Exploring contribution opportunities in open-source ecosystems 
-*>* Focusing on fundamentals, reasoning, and controlled progress
----
-
-## *>* Contact
+## *>* Let's Contact 🌱
 
 LinkedIn — https://www.linkedin.com/in/akash-kisku-65501b1b3/
 <br>

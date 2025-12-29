@@ -29,33 +29,18 @@ Focused on building a strong problem-solving
 
 ---
 
-## *>* Open Source and Learning
+## *>* Open Source
 
 *>* Exploring contribution opportunities in open-source ecosystems 
 *>* Focusing on fundamentals, reasoning, and controlled progress
-
----
-
-## *>* Profile Overview
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=akashkisku-108&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=akashkisku-108&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashkisku-108&layout=compact&theme=tokyonight" />
-</p>
-
 ---
 
 ## *>* Contact
 
 LinkedIn — https://www.linkedin.com/in/akash-kisku-65501b1b3/
-GitHub — https://github.com/akashkisku-108  
+<br>
+GitHub — https://github.com/akashkisku-108
+<br>
 Email — Akashkisku8721@gmail.com
 
 ---

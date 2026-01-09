@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=DM+Sans&weight=600&size=34&duration=3000&pause=600&color=4BD5FF&center=true&vCenter=true&width=520&lines=AKASH+KISKU;  Engineering+Mindset+%7C+Learning+Every+Day" />
-</h1>
+<h1 align="center"> </h1>
 
 <p align="center">
 B.Tech — Electronics and Communication Engineering, BIT Sindri  

@@ -19,7 +19,7 @@ Focused on building a strong problem-solving
 ## *>* Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,git,github,linux,vscode&theme=light" />
+<img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,git,github,vscode&theme=light" />
 <br>
 <img src="https://skillicons.dev/icons?i=matlab,react,nodejs" />
 </p>
